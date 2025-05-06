@@ -1,9 +1,3 @@
-Inventario = {
-    'manzana' : 50,
-    'naranjas' : 30,
-    'peras' : 20
-}
-
 ## Función mostrar inventario##
 def mostrar_inventario(Inventario) :
     print("Inventario actual:")
